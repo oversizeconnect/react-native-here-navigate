@@ -3,7 +3,7 @@ import heresdk
 func convertZoomKind(kind: String) -> MapMeasure.Kind {
     switch kind {
     case "DISTANCE":
-        return .distance
+        return .distanceInMeters
     case "ZOOM_LEVEL":
         return .zoomLevel
     case "SCALE":
