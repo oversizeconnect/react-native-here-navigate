@@ -1,7 +1,7 @@
 {
-  "name": "react-native-here-explore",
-  "version": "2.2.0",
-  "description": "HERE Explore Edition for React Native",
+  "name": "@oversizeconnect/react-native-here-navigate",
+  "version": "1.0.3",
+  "description": "HERE for React Native",
   "scripts": {
     "example": "yarn workspace react-native-here-explore-example",
     "test": "jest",
@@ -70,16 +70,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajakka/react-native-here-explore.git"
+    "url": "git+https://github.com/oversizeconnect/react-native-here-navigate.git"
   },
-  "author": "Abderrahim Ajakka <ajakka.abderrahim@gmail.com> (https://github.com/ajakka)",
+  "author": "Oversize Connect (https://github.com/oversizeconnect)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ajakka/react-native-here-explore/issues"
+    "url": "https://github.com/oversizeconnect/react-native-here-navigate/issues"
   },
-  "homepage": "https://github.com/ajakka/react-native-here-explore#readme",
+  "homepage": "https://github.com/oversizeconnect/react-native-here-navigate#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com"
   },
   "resolutions": {
     "@types/react": "^18.2.44"
