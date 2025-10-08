@@ -1,6 +1,6 @@
 {
   "name": "@oversizeconnect/react-native-here-navigate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "HERE for React Native",
   "scripts": {
     "example": "yarn workspace react-native-here-explore-example",
